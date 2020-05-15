@@ -5,3 +5,11 @@ This is a simple program I used to help design and test the character font I am 
 ### Dependencies:
 
 - SDL2
+
+### To do:
+
+- Move char array and maps to a seperate file
+
+- Add colour
+
+- Add a way to make custom sprites
