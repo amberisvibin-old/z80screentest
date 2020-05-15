@@ -1,4 +1,4 @@
-# Security Policy for z80screentest
+# Security Policy
 
 ## Supported Versions
 
