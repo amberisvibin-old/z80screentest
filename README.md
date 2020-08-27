@@ -1,6 +1,6 @@
 # z80screentest
 
-This is a simple program I used to help design and test the character font I am planning on using. It's capabilities are limited to only white on black text. It will likely be updated and expanded for my design needs.
+z80screentest is a simple program I used to help design and test the character font I am planning on using in the [chibi-pc80 project](https://github.com/amberisvibin/chibi-pc80). It's capabilities are limited to only white on black text. It will likely be updated and expanded for my design needs.
 
 ### Dependencies:
 
