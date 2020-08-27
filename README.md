@@ -8,7 +8,7 @@ z80screentest is a simple program I used to help design and test the character f
 
 - Linux (tested on Ubuntu 20.04)
 
-### To do:
+### Possible Improvements:
 
 - Move char array and maps to a seperate file
 
